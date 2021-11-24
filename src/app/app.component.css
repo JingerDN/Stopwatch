@@ -1,0 +1,27 @@
+.container {
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+mat-form-field {
+  width: 400px;
+  margin-bottom: 25px;
+}
+.add {
+  margin-bottom: 10px;
+}
+.delete {
+  margin-left: 10px;
+}
+
+.row {
+  align-items: center;
+  flex-direction: row;
+  align-items: baseline;
+  height: auto;
+}
+.format {
+  margin-bottom: 10px;
+}

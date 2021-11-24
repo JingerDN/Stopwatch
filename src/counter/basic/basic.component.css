@@ -1,0 +1,40 @@
+.counter {
+  font-weight: 700;
+  font-size: 32px;
+  color: #fff;
+  margin-top: 10px;
+  height: auto;
+  padding: 20px 10px 20px 10px;
+  text-align: center;
+  border: 2px solid lightgrey;
+  background-color: rgba(238, 240, 149, 0.384);
+  border-radius: 10px;
+}
+
+button {
+  display: inline;
+  margin: 20px 10px 5px 5px;
+  width: auto;
+  padding: 10px;
+  height: 40px;
+  width: fit-content;
+  border-radius: 5px;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
+.stopwatch {
+  width: fit-content;
+  height: fit-content;
+  padding: 20px 10px 10px 10px;
+  border: 2px solid lightgrey;
+  background-color: rgba(103, 176, 236, 0.781);
+  border-radius: 10px;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+.wrapper {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
